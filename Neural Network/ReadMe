@@ -1,1 +1,18 @@
 Neural Network
+
+
+II.A 5-fold Cross Validation
+- Explain and use 5-fold cross validation to find a good neural network parameters including the structure to report the CV accuracies.
+III.B Nonlinear Regression
+- Summarize the nonlinear regression model.
+- Use the NeuralNet class for regression to apply to your data.
+- Explain your codes (not in comment).
+III.C Nonlinear Logistic Regression
+- Summarize the nonlinear logistic regression model.
+- Check if your codes works well with toy synthetic data.
+- Apply to your classification data.
+- Explain your codes.
+IV - Results
+- Presents the results of comparison of the tested models with CV errors.
+- Visualize the results
+- What do you think about the results?
