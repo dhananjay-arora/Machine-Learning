@@ -1,5 +1,15 @@
 # Machine-Learning
 
-Regression Analysis directory contains only visualization of data.
+Some of my assignments related to the below topics are uploaded for reference.
 
-Classification directory contains only visualization of data.
+- Regression Analysis.
+
+- Classification.
+
+- Reinforcement Learning.
+
+- Neural Networks.
+
+- Deep Learning.
+
+- Project on Handwritten Prescriptions Conversion to Digital Text.
